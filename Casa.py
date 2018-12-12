@@ -1,4 +1,5 @@
 # TENTAR FAZER CASA
+# -*- coding: utf-8 -*-
 
 import turtle
 
