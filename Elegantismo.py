@@ -22,7 +22,7 @@ savio.forward(150)
 bola = turtle.Turtle()          # outra tartaruga, metade de um circulo
 bola.color('pink')
 bola.heading()
-bola.circle(120,180)
+bola.circle(120,180)           # (tamanho, angulo)
 bola.color('purple')
 bola.heading()
 bola.circle(120,180)            # metade do circulo
