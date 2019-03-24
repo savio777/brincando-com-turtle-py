@@ -1,3 +1,4 @@
+# coding making python 2.7
 # TENTAR FAZER CASA
 # -*- coding: utf-8 -*-
 

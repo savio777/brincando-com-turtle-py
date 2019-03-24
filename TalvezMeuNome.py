@@ -1,5 +1,5 @@
+# coding making python 2.7
 # -*- coding: utf-8 -*-
-'''ninguem liga'''
 
 import turtle
 
